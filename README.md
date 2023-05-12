@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-Project-Repository
+# Data-Analyst Portfolio Project Repository
 Hey there!
 
 So, I've created a repository that contains all the code and queries from my portfolio projects. The idea behind it is to share my work with others who might be interested in taking a look or even using it for their own projects.
